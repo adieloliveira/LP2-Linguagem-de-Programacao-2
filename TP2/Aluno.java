@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- * Douglas Willian CB3005348
- * João Vitor Gino CB3005488
- */
 import java.lang.Object;
 import java.util.UUID;
 
